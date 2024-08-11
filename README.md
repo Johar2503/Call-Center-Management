@@ -16,10 +16,10 @@ The main goal is to provide valuable insights representing:
 3) The average rate of customer satisfaction.
 
 ## Key Points 
-- 1) This project represnts the average speed of answering calls through linear chart comparing with total calls.
+- This project represnts the average speed of answering calls through linear chart comparing with total calls.
 
-- 2) Total number of resolutions per each month.
+- Total number of resolutions per each month.
 
-- 3) Performance of agent.
+- Performance of agent.
 
-- 4) Average rate of customer satisfaction.
+- Average rate of customer satisfaction.
