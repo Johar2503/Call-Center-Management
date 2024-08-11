@@ -1,7 +1,7 @@
 # Call-Center-Management
 
 
-![Call Center Management](/Asset/Screenshot 2024-06-22 164917.png)
+![Call Center Management](https://github.com/Johar2503/Call-Center-Management/blob/main/Call%20Center%20Management/Asset/Screenshot%202024-06-22%20164917.png)
 
 ## Project Description
 Building the dashboard for Call Center Management by creating valuable insights which provide a clear report for stakeholders to easily understand call center performance and to answer key questions about the customer satisfaction and most occuring issues.
